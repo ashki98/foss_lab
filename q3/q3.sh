@@ -15,4 +15,6 @@ if [ $counter -ne 0 ]
 then
     echo $lines
     echo "The word exists in the files ${counter} number of times in the above line numbers "
+else
+    echo "Word was not found"
 fi
