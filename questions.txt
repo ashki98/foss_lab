@@ -1,0 +1,4 @@
+1. Write a shell script that creates an extension .old to all the files in a directory.
+2. Delete a file which has specific character in its file name.
+3. Find a unique word in a file, find the number of occurence and line number of this words.
+4. Print the count of files and subdirectories, files within subdirectories in a specified directory.
